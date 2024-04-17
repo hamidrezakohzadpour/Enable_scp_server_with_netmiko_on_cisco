@@ -5,7 +5,7 @@ Usage:
 	pip install netmiko
 	pip install colorama
 3. Make text file with name "device_ip.txt" and put on configs directory.
-4. Add IP of cisco device to device_ip.txt file.
+4. Add IP of cisco devices(Each ip in one line) to device_ip.txt file.
 5. Put script to side of configs directory.
 6. Add username and password of cisco device (privilage 15 required) into script.
 	Switch ={ 
